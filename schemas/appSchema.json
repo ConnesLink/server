@@ -1,0 +1,9 @@
+{
+  "appId": 1234567890,
+  "data": {
+    "name": "myapplol",
+    "owner": 123123,
+    "secret": "randomJWTstring",
+    "callback": ["https://example.com/callback", "https://another.tld/call"]
+  }
+}

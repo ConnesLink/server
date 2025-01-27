@@ -1,0 +1,13 @@
+{
+  "userId": 1234567890,
+  "flags": ["isAdmin", "isVerified", "isPremium"],
+  "data": {
+    "username": "username123",
+    "password": "bcrypthashlol123",
+    "email": "testing@musti.codes",
+    "firstName": "Test",
+    "lastName": "User",
+    "picture": "https://link.to.pho.to/lol.png"
+  },
+  "authorizedApps": [123123, 12342, 435345]
+}
